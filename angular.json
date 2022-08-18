@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "partners-dashboard": "apps/partners-dashboard",
+    "partners-dashboard-e2e": "apps/partners-dashboard-e2e"
+  }
+}
